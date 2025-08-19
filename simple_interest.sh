@@ -6,7 +6,7 @@
    
    # Autor: Upkar Lidder (IBM)
    # Autores adicionales:
-   # <tu nombre de usuario en GitHub>
+   # cdulceys
    
    # Entrada:
    # p, monto principal
